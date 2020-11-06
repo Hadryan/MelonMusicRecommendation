@@ -27,7 +27,9 @@
 --------------------
 * 입력 곡과 유사한 Top-N개의 곡 추천           
 * 입력 곡과 유사한 태그 추천           
-* 신경망을 이용한 태그 추천 -> 실패 너무 낮은 정확도(0.06%)를 가짐                   
+* 신경망을 이용한 태그 추천 -> 실패 너무 낮은 정확도(0.06%)를 가짐      
+> <img src= "https://user-images.githubusercontent.com/25631105/98368919-758a5b80-207b-11eb-8a55-76376402cf4f.png"></img>            
+> 데이터 시각화(일부)
 > <img src= "https://user-images.githubusercontent.com/25631105/98253776-d011b200-1fbe-11eb-89bb-3ea414d3354a.png"></img>         
 > 태그 추천 결과                    
 > <img src= "https://user-images.githubusercontent.com/25631105/98253846-e455af00-1fbe-11eb-9e5c-ee24040e6bad.png"></img>        
